@@ -1,0 +1,13 @@
+@mobile{
+  
+.webViewClass{  
+  height: -1;
+}
+
+ .containerClass{
+   orientation: vertical; 
+   height: -1;
+  
+}
+
+}
